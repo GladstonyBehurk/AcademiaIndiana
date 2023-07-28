@@ -4,3 +4,4 @@ arroz
 feijão
 macarrão
 sal
+carne
